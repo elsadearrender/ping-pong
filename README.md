@@ -5,6 +5,4 @@ The game can be played with two human players.
 
 Below are images of the game already built 👇
 
-<image src=" " alt="pong">
-  
-<image scr=" " alt="pong">
+<image src="captura\capturita.png" alt="pong">
